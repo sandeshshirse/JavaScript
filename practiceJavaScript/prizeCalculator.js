@@ -2,7 +2,7 @@ console.log("prize calculator");
 let a= "milk"
 let b= "banana"
 let c= "coffee"
-let item = prompt("enter your item")
+let item = prompt("enter your item" )
 if (item == a){
     console.log("60.00Rs");
 }
